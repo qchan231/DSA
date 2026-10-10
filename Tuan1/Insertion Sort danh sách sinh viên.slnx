@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Insertion Sort danh sách sinh viên/Insertion Sort danh sách sinh viên.vcxproj" />
+</Solution>
